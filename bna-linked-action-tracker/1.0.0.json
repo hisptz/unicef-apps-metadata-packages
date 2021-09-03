@@ -1,0 +1,826 @@
+{
+    "attributes": [
+        {
+            "id": "xsOK0ms8YJv",
+            "name": "columnMandatory",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "rw------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": true,
+            "constantAttribute": false,
+            "valueType": "BOOLEAN",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": false,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "programStageAttribute": false,
+            "programAttribute": false,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "userAccesses": []
+        },
+        {
+            "id": "GvW2Wtw6L5l",
+            "name": "hasLegend",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "rw------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": true,
+            "constantAttribute": false,
+            "valueType": "BOOLEAN",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": false,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "programStageAttribute": false,
+            "programAttribute": false,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "userAccesses": []
+        },
+        {
+            "id": "GOcsBWoi35g",
+            "name": "isActionStatus",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "rw------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": true,
+            "constantAttribute": false,
+            "valueType": "BOOLEAN",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": false,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "programStageAttribute": false,
+            "programAttribute": false,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "userAccesses": []
+        },
+        {
+            "id": "e444SAZc6Qg",
+            "name": "isRangePeriod",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "rw------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": false,
+            "constantAttribute": false,
+            "valueType": "BOOLEAN",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": false,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "programStageAttribute": false,
+            "programAttribute": false,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "userAccesses": []
+        },
+        {
+            "id": "ryc6MHoA88m",
+            "name": "isActionTrackingColumn",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "publicAccess": "rw------",
+            "userGroupAttribute": false,
+            "dataElementAttribute": false,
+            "constantAttribute": false,
+            "valueType": "TRUE_ONLY",
+            "categoryOptionAttribute": false,
+            "optionSetAttribute": false,
+            "sqlViewAttribute": false,
+            "legendSetAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "organisationUnitAttribute": false,
+            "dataSetAttribute": false,
+            "documentAttribute": false,
+            "unique": false,
+            "validationRuleGroupAttribute": false,
+            "dataElementGroupAttribute": false,
+            "sectionAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "userAttribute": false,
+            "mandatory": false,
+            "categoryOptionGroupAttribute": false,
+            "programStageAttribute": false,
+            "programAttribute": false,
+            "categoryAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "validationRuleAttribute": false,
+            "programIndicatorAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "optionAttribute": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "userAccesses": []
+        }
+    ],
+    "userGroups": [
+        {
+            "code": "Action Tracker users",
+            "created": "2020-01-22T11:56:37.957",
+            "lastUpdated": "2020-05-04T14:06:09.298",
+            "name": "Action Tracker users",
+            "id": "t7Gi00eBwdQ",
+            "publicAccess": "rw------",
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "managedGroups": [],
+            "translations": [],
+            "userAccesses": []
+        }
+    ],
+    "trackedEntityTypes": [
+        {
+            "name": "Action",
+            "id": "WQLx9VNVeZU",
+            "publicAccess": "rwrw----",
+            "description": "Action Item",
+            "maxTeiCountToReturn": 0,
+            "allowAuditLog": false,
+            "featureType": "NONE",
+            "minAttributesRequiredToSearch": 1,
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "trackedEntityTypeAttributes": [],
+            "translations": [],
+            "userAccesses": []
+        }
+    ],
+    "trackedEntityAttributes": [
+        {
+            "id": "Ua9aBlFUHXb",
+            "name": "Designation Title",
+            "shortName": "Designation Title",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "TEXT",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "code": "BNA_REF",
+            "id": "blOw6mjuv6j",
+            "name": "BNA Reference",
+            "shortName": "BNA Reference",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "TEXT",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "dhr6wl8F7So",
+            "name": "Action Description",
+            "shortName": "Action Description",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "LONG_TEXT",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "qTXUUntafIX",
+            "name": "Start Date",
+            "shortName": "Start Date",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "DATE",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "e444SAZc6Qg"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "P7qIYtQIeoK",
+            "name": "Budget",
+            "shortName": "Budget",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "ryc6MHoA88m"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "knMPFmtAM29",
+            "name": "BNA Target",
+            "shortName": "BNA Target",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "NUMBER",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "ryc6MHoA88m"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "ge6NMvlcYx5",
+            "name": "End Date",
+            "shortName": "End Date",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "DATE",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "false",
+                    "attribute": {
+                        "id": "e444SAZc6Qg"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "id": "AuW5NppdH5e",
+            "name": "Responsible Person",
+            "shortName": "Responsible Person",
+            "aggregationType": "NONE",
+            "programScope": false,
+            "displayInListNoProgram": false,
+            "publicAccess": "rw------",
+            "pattern": "",
+            "skipSynchronization": false,
+            "generated": false,
+            "displayOnVisitSchedule": false,
+            "valueType": "TEXT",
+            "orgunitScope": false,
+            "confidential": false,
+            "unique": false,
+            "inherit": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": []
+        }
+    ],
+    "dataElements": [
+        {
+            "id": "DRFRXS9YGDw",
+            "name": "Action Tracker : Action Status",
+            "shortName": "Action Tracker : Action Status",
+            "aggregationType": "NONE",
+            "domainType": "TRACKER",
+            "publicAccess": "rw------",
+            "description": "Field to capture the status of the action execution",
+            "valueType": "TEXT",
+            "formName": "Action Status",
+            "zeroIsSignificant": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "GOcsBWoi35g"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "GvW2Wtw6L5l"
+                    }
+                },
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        },
+        {
+            "id": "D8uK000mWtr",
+            "name": "Action Tracker : Comments",
+            "shortName": "Action Tracker : Comments",
+            "aggregationType": "NONE",
+            "domainType": "TRACKER",
+            "publicAccess": "rw------",
+            "description": "Field to capture the action comments",
+            "valueType": "LONG_TEXT",
+            "formName": "Action Comments",
+            "zeroIsSignificant": false,
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "value": "true",
+                    "attribute": {
+                        "id": "xsOK0ms8YJv"
+                    }
+                }
+            ],
+            "userAccesses": [],
+            "legendSets": [],
+            "aggregationLevels": []
+        }
+    ],
+    "programStageDataElements": [
+        {
+            "id": "kmzE1H2Vc2b",
+            "displayInReports": true,
+            "skipSynchronization": false,
+            "renderOptionsAsRadio": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 1,
+            "allowFutureDate": false,
+            "dataElement": {
+                "id": "DRFRXS9YGDw"
+            }
+        },
+        {
+            "id": "Y4OIrJp8WOA",
+            "displayInReports": true,
+            "skipSynchronization": false,
+            "renderOptionsAsRadio": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 2,
+            "allowFutureDate": false,
+            "dataElement": {
+                "id": "D8uK000mWtr"
+            }
+        }
+    ],
+    "programStages": [
+        {
+            "id": "TppfLBfs95i",
+            "name": "Action Status",
+            "allowGenerateNextVisit": false,
+            "executionDateLabel": "Review Date",
+            "preGenerateUID": false,
+            "publicAccess": "--r-----",
+            "openAfterEnrollment": false,
+            "repeatable": true,
+            "remindCompleted": false,
+            "displayGenerateEventBox": true,
+            "generatedByEnrollmentDate": false,
+            "validationStrategy": "ON_COMPLETE",
+            "autoGenerateEvent": true,
+            "sortOrder": 1,
+            "hideDueDate": true,
+            "blockEntryForm": false,
+            "minDaysFromStart": 0,
+            "notificationTemplates": [],
+            "programStageDataElements": [
+                {
+                    "id": "kmzE1H2Vc2b",
+                    "displayInReports": true,
+                    "skipSynchronization": false,
+                    "externalAccess": false,
+                    "renderOptionsAsRadio": false,
+                    "allowFutureDate": false,
+                    "compulsory": false,
+                    "allowProvidedElsewhere": false,
+                    "sortOrder": 1,
+                    "favorite": false,
+                    "access": {
+                        "read": true,
+                        "update": true,
+                        "externalize": true,
+                        "delete": true,
+                        "write": true,
+                        "manage": true
+                    },
+                    "programStage": {
+                        "id": "TppfLBfs95i"
+                    },
+                    "dataElement": {
+                        "id": "DRFRXS9YGDw"
+                    },
+                    "favorites": [],
+                    "translations": [],
+                    "userGroupAccesses": [],
+                    "attributeValues": [],
+                    "userAccesses": []
+                },
+                {
+                    "id": "Y4OIrJp8WOA",
+                    "displayInReports": true,
+                    "skipSynchronization": false,
+                    "externalAccess": false,
+                    "renderOptionsAsRadio": false,
+                    "allowFutureDate": false,
+                    "compulsory": false,
+                    "allowProvidedElsewhere": false,
+                    "sortOrder": 2,
+                    "favorite": false,
+                    "access": {
+                        "read": true,
+                        "update": true,
+                        "externalize": true,
+                        "delete": true,
+                        "write": true,
+                        "manage": true
+                    },
+                    "programStage": {
+                        "id": "TppfLBfs95i"
+                    },
+                    "dataElement": {
+                        "id": "D8uK000mWtr"
+                    },
+                    "favorites": [],
+                    "translations": [],
+                    "userGroupAccesses": [],
+                    "attributeValues": [],
+                    "userAccesses": []
+                }
+            ],
+            "translations": [],
+            "userGroupAccesses": [
+                {
+                    "access": "rw------",
+                    "userGroupUid": "t7Gi00eBwdQ",
+                    "displayName": "Action Tracker users",
+                    "id": "t7Gi00eBwdQ"
+                }
+            ],
+            "attributeValues": [],
+            "userAccesses": [],
+            "programStageSections": []
+        }
+    ],
+    "programs": [
+        {
+            "id": "ROSaojkGieB",
+            "name": "Action Tracker v1",
+            "shortName": "Action Tracker v1",
+            "publicAccess": "--r-----",
+            "completeEventsExpiryDays": 0,
+            "ignoreOverdueEvents": false,
+            "skipOffline": false,
+            "minAttributesRequiredToSearch": 1,
+            "displayFrontPageList": true,
+            "onlyEnrollOnce": true,
+            "programType": "WITH_REGISTRATION",
+            "accessLevel": "OPEN",
+            "maxTeiCountToReturn": 0,
+            "selectIncidentDatesInFuture": false,
+            "displayIncidentDate": false,
+            "selectEnrollmentDatesInFuture": false,
+            "expiryDays": 0,
+            "useFirstStageDuringRegistration": false,
+            "trackedEntityType": {
+                "id": "WQLx9VNVeZU"
+            },
+            "userGroupAccesses": [
+                {
+                    "access": "rwrw----",
+                    "userGroupUid": "t7Gi00eBwdQ",
+                    "displayName": "Action Tracker users",
+                    "id": "t7Gi00eBwdQ"
+                }
+            ],
+            "programStages": [
+                {
+                    "id": "TppfLBfs95i"
+                }
+            ],
+            "programTrackedEntityAttributes": [
+                {
+                    "id": "UPiRHleMEsi",
+                    "mandatory": false,
+                    "searchable": false,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 4,
+                    "trackedEntityAttribute": {
+                        "id": "ge6NMvlcYx5"
+                    }
+                },
+                {
+                    "id": "LecLymPquue",
+                    "mandatory": false,
+                    "searchable": true,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": false,
+                    "sortOrder": 1,
+                    "trackedEntityAttribute": {
+                        "id": "blOw6mjuv6j"
+                    }
+                },
+                {
+                    "id": "XajRri3534V",
+                    "mandatory": true,
+                    "searchable": false,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 5,
+                    "trackedEntityAttribute": {
+                        "id": "AuW5NppdH5e"
+                    }
+                },
+                {
+                    "id": "xh38fmO5BmB",
+                    "mandatory": false,
+                    "searchable": true,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 7,
+                    "trackedEntityAttribute": {
+                        "id": "P7qIYtQIeoK"
+                    }
+                },
+                {
+                    "id": "hUaP4U5Wwvj",
+                    "mandatory": false,
+                    "searchable": true,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 8,
+                    "trackedEntityAttribute": {
+                        "id": "knMPFmtAM29"
+                    }
+                },
+                {
+                    "id": "DfT0JC0VKA3",
+                    "mandatory": true,
+                    "searchable": false,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 2,
+                    "trackedEntityAttribute": {
+                        "id": "dhr6wl8F7So"
+                    }
+                },
+                {
+                    "id": "ydN3ekUUT2m",
+                    "mandatory": true,
+                    "searchable": false,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 3,
+                    "trackedEntityAttribute": {
+                        "id": "qTXUUntafIX"
+                    }
+                },
+                {
+                    "id": "fzISmkQRgcb",
+                    "mandatory": false,
+                    "searchable": false,
+                    "renderOptionsAsRadio": false,
+                    "displayInList": true,
+                    "sortOrder": 6,
+                    "trackedEntityAttribute": {
+                        "id": "Ua9aBlFUHXb"
+                    }
+                }
+            ]
+        }
+    ]
+}
